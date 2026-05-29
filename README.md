@@ -1,4 +1,4 @@
 # coder
 My Repo
 <br> 
-Author - Pranjal Suman
+Author - Pranjal (Programmer)
